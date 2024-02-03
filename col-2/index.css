@@ -31,6 +31,10 @@ boyd{
 #menu ul li{
   display: inline-block;
 }
+#menu ul li a{
+    text-decoration: none;
+    gap: 10px;
+}
 #sidebar{
     background-color: aquamarine;
 
