@@ -1,0 +1,51 @@
+boyd{
+    background-color: gray;
+}
+
+
+.container{
+    border: 0px solid red;
+
+}
+.row{
+    border: 0px solid green;
+}
+.col-8{
+    border: 0px solid blue;
+}
+#logo{
+    background-color: yellow;
+
+}
+#menu{
+    background-color: pink;
+    padding: 3px ;
+   
+
+}
+
+#menu ul{
+    list-style: none;
+    margin: 0;
+}
+#menu ul li{
+  display: inline-block;
+}
+#sidebar{
+    background-color: aquamarine;
+
+}
+#sidebar ul {
+    list-style: none;
+}
+#sidebar ul li a {
+
+    text-decoration: none;
+}
+#footer{
+    background-color: lightsalmon;
+}
+#content{
+    background-color: #fff;
+    color: black;
+}
